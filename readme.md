@@ -14,7 +14,7 @@ These Files are then available in the same directory from where you ran the appl
 
 
 ## <u>Requirements</u>
-* To do either of the below options you need of course to have Go installed:
+* To do either the CLI Usage or Build an exe options below you need of course to have Go installed:
 [Install Go](https://go.dev/doc/install)
 * Credentials block already configured through the AWS CLI. Such credentials blocks typically look like this;
 ~~~
@@ -23,7 +23,7 @@ aws_access_key_id        = REDACTEDFORSECURITY
 aws_secret_access_key = <<123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcde>>
 region                   = eu-central-1
 ~~~
-
+This credentials file ought to be at C:\\\<Username>\\\.aws\\
 
 ## <u>Usage and Building</u>
 
@@ -42,6 +42,8 @@ Or you can build a portable exe:
 go build -o ListEc2Instances.exe main.go
 ~~~
 And then run the .exe wherever you like.
+<br/><br/>
 
-
+### <u>Download</u>
+Or the easiest way would be to download and unzip the latest release version, on the right hand side.
 
