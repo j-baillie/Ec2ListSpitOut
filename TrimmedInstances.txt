@@ -1,0 +1,314 @@
+
+Instance ID: i-0de3210637f9c06f9 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  User: TF
+  Name: FT-ATTvsSOC
+  Owner: FrotscherTom
+
+Instance ID: i-0181a671da959a99e | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: FT-CUSTOMER-PREP
+  Owner: FrotscherTom
+
+Instance ID: i-0bc6d2b9519182088 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAJJTPV2FQRDKEF3LDQ
+  Owner: DohrendorfNicolas
+  Name: DN_Hackathon - Minecraft Server
+
+Instance ID: i-091299a3e1f1c1ce5 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: FrotscherTom
+  Name: FT-Jenkins-Splunk
+
+Instance ID: i-0f7e7a0eba471e1a9 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: FT-UberAgent-Demo
+  Owner: FrotscherTom
+  PrincipalId: AIDAZEXUIIQINRBM2GD5W
+
+Instance ID: i-0b87065b7af27494d | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: DiederichNick
+  PrincipalId: AIDAZEXUIIQINPDKKRVEX
+  Name: dni_Hackathon_2022_final
+
+Instance ID: i-03b7caa512b91ce81 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: DiederichNick
+  Name: dni_Splunk_ML_test
+  PrincipalId: AIDAZEXUIIQINPDKKRVEX
+
+Instance ID: i-06f286c0131cbfa89 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: DiederichNick
+  PrincipalId: AIDAZEXUIIQINPDKKRVEX
+  Name: dni_Hackathon_2022_test_NicoTA
+
+Instance ID: i-0824bb1b0e0d3b8d9 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  owner: Nicolas Dohrendorf
+  Name: ND-Hackathon Dev Splunk
+  purpose: Dev Env for Forza Hackathon
+  Owner: DohrendorfNicolas
+  PrincipalId: AIDAJJTPV2FQRDKEF3LDQ
+
+Instance ID: i-0a5dc624aec922848 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: Boe3_SP_MN
+  Owner: BoeschJohannes
+  PrincipalId: AIDAZEXUIIQINA6DYLDAG
+
+Instance ID: i-096d5a1928f308393 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: BoeschJohannes
+  Name: Boe3_SP_IDX1
+  PrincipalId: AIDAZEXUIIQINA6DYLDAG
+
+Instance ID: i-0697c218785f74347 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQINA6DYLDAG
+  Name: Boe3_SP_IDX2
+  Owner: BoeschJohannes
+
+Instance ID: i-06ecb591a3501c48d | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: Boe3_SP_IDX3
+  PrincipalId: AIDAZEXUIIQINA6DYLDAG
+  Owner: BoeschJohannes
+
+Instance ID: i-08683dbceaf67d023 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQINA6DYLDAG
+  Name: Boe3_SP_MCDSLM
+  Owner: BoeschJohannes
+
+Instance ID: i-0b2db72329abdd218 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: AK_Group_Benteler_SPLK
+  Owner: KurzAydin-Deniz
+  PrincipalId: AIDAZEXUIIQICRYJQ4WBA
+
+Instance ID: i-0413ae4bbc9457232 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: Boe3_SP_UF1
+  Owner: BoeschJohannes
+  PrincipalId: AIDAZEXUIIQINA6DYLDAG
+
+Instance ID: i-00205fcfa99b3ffdd | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: Boe3_SP_UF2
+  Owner: BoeschJohannes
+  PrincipalId: AIDAZEXUIIQINA6DYLDAG
+
+Instance ID: i-02418a7ead185c194 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: SchluenzenNiclas
+  Name: ESWS-Test
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+
+Instance ID: i-08b3648b94edf0c10 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: Boe3_SP_SH
+  Owner: BoeschJohannes
+  PrincipalId: AIDAZEXUIIQINA6DYLDAG
+
+Instance ID: i-08b62c7d9e8a34bb0 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: SchluenzenNiclas
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Name: ConsistAcademy-DB
+
+Instance ID: i-0d1a3c820267ee4df | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: SplunkHackathon_HeavyForwarder_24
+  Owner: KrusenbaumMoritz
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+
+Instance ID: i-0f3ecab7ec2e7de43 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Owner: KrusenbaumMoritz
+  Name: SplunkHackathon_Indexer_I_24
+
+Instance ID: i-015a94731bbe4203d | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Owner: SchluenzenNiclas
+  Name: SplunkHackathon_Indexer_II_24
+
+Instance ID: i-0f193422db94b6b3a | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: SchluenzenNiclas
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Name: SplunkHackathon_SearchHead_I_24
+
+Instance ID: i-08b3ee4a0ad7d1f6e | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Owner: SchluenzenNiclas
+  Name: SplunkHackathon_SearchHead_III_24
+
+Instance ID: i-02d11a85b8bfb5bf5 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: SchluenzenNiclas
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Name: SplunkHackathon_SearchHead_II_24
+
+Instance ID: i-03098ef27d8eded59 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: DankerFinn
+  PrincipalId: AIDAZEXUIIQIJTF5IZNHV
+  Name: DF-PostgreSQL-Practise2
+
+Instance ID: i-0844c5b2f6314962a | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: CriblWorkshop_SplunkHF
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Owner: SchluenzenNiclas
+
+Instance ID: i-01554e5b37da4372a | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Name: CriblWorkshop_CriblStream
+  Owner: SchluenzenNiclas
+
+Instance ID: i-03c5c7df44909b809 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: SchluenzenNiclas
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Name:  CriblWorkshop_SplunkDest
+
+Instance ID: i-0920639970572b821 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: SchluenzenNiclas
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Name: NS-ESWS-Test
+  aws:ec2launchtemplate:id: lt-0abed459320d96969
+  aws:ec2launchtemplate:version: 6
+
+Instance ID: i-06a6b7ec5cf520da9 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: SchluenzenNiclas
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+  Name: NS_SplunkTest
+
+Instance ID: i-0b953cb3474387ea5 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: GoeserJohannes
+  PrincipalId: AIDAZEXUIIQIFX3NRSSZW
+  Name: Academy_Portal_WS_Dataonboarding
+
+Instance ID: i-0f6b6214588f18c0a | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: KurzAydin-Deniz
+  PrincipalId: AIDAZEXUIIQICRYJQ4WBA
+  Name: AK-Benteler_SOAR
+
+Instance ID: i-08f22b81656f23a71 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: GrowHenry
+  Name: gh_e.solutions_spl_dev
+  PrincipalId: AIDAIO77FPCYKD2RKT5WW
+
+Instance ID: i-0db8619727c2f6ea0 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: Bakkour_Splunk_Instance_1
+  Owner: BakkourMaher
+  PrincipalId: AIDAZEXUIIQICIUOQYGOS
+
+Instance ID: i-03620ba6bf8c56adc | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQII7AWQ4GE7
+  Name: ld_sysaid_win
+  Owner: DresselLars
+
+Instance ID: i-0bc711488c8874790 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: SteinmetzMarcel
+  PrincipalId: AIDAZEXUIIQIGLDVCL5FM
+
+Instance ID: i-04d5de2ceb78531e6 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: KurzAydin-Deniz
+  Name: AK-LNX-AIO
+  PrincipalId: AIDAZEXUIIQICRYJQ4WBA
+
+Instance ID: i-060df05c83a04bb0d | State is currently: running
+  Name: sma-splunk4climit
+  PrincipalId: AIDAZEXUIIQIG33W4PNRP
+  aws:ec2launchtemplate:version: 1
+  Owner: SchleiterMarvin
+  aws:ec2launchtemplate:id: lt-02bace33562402ae5
+
+Instance ID: i-0c28d31c926e5df55 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: SchluenzenNiclas
+  aws:ec2launchtemplate:id: lt-06bf27aa76e099903
+  Name: Splunk-Workshop-DeepDiveSearch-Dev
+  aws:ec2launchtemplate:version: 7
+  PrincipalId: AIDAZEXUIIQILPFFPG63M
+
+Instance ID: i-09d60dd552536e2af | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQIPRBXOOHME
+  Name: SplunkHackathon_Indexer_III_24
+  Owner: KlueppelholzMax
+
+Instance ID: i-02eb4998e9dc1f8c4 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQICRYJQ4WBA
+  Owner: KurzAydin-Deniz
+  Name: AK-WIN-UF
+
+Instance ID: i-0e84939b38ffbc71c | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  PrincipalId: AIDAZEXUIIQIDJ3BFT4GU
+  Owner: JahnkeEric
+
+Instance ID: i-0bad958e982cfa561 | State is currently: running
+  Owner: EfflandJohannes
+  PrincipalId: AIDAZEXUIIQIDU6DRFCVY
+  Name: JE-docker_for_grafana/otel-lgtm
+
+Instance ID: i-0af01e493453cece5 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Name: gj-lbbw.test
+  Owner: GoeserJohannes
+  PrincipalId: AIDAZEXUIIQIFX3NRSSZW
+
+Instance ID: i-0557d376b2e5761f2 | State is currently: stopped
+Is not running because: Client.UserInitiatedShutdown: User initiated shutdown
+  Owner: JahnkeEric
+  PrincipalId: AIDAZEXUIIQIDJ3BFT4GU
+  Name: ej-lbbw_snow_add_on_dev
+
+Instance ID: i-05bff95d8ab80c193 | State is currently: running
+  Name: JR-DS
+  PrincipalId: AIDAZEXUIIQIILTGY5NJL
+  Owner: RuemenappJohanna
+
+Instance ID: i-08cc6648d2ea3fa9f | State is currently: running
+  PrincipalId: AIDAZEXUIIQIILTGY5NJL
+  Name: JR-UF-test
+  Owner: RuemenappJohanna
+
+Instance ID: i-0afac272a9f31a1ae | State is currently: running
+  Name: AJ_testserverw
+  Owner: JacobsAnton
+  PrincipalId: AIDAZEXUIIQIM4RD7LYHP
+
+Instance ID: i-0bc7925d621ab88ed | State is currently: running
+  Owner: JacobsAnton
+  PrincipalId: AIDAZEXUIIQIM4RD7LYHP
+  Name: AJ_testserver
+
+Instance ID: i-0a94555b10bc0cd11 | State is currently: running
+  PrincipalId: AIDAZEXUIIQIM4RD7LYHP
+  Owner: JacobsAnton
+  Name: AJ_testserver
+
+Instance ID: i-02c1789a5e05e59ed | State is currently: running
+  PrincipalId: AIDAZEXUIIQIM4RD7LYHP
+  Owner: JacobsAnton
+  Name: AJ_testserver
